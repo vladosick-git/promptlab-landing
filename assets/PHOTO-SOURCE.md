@@ -1,0 +1,7 @@
+# Фотографии
+
+people.png — отдельный атлас из четырёх портретов, подготовленный встроенным инструментом Image Gen по второму референсу PROMPTLAB. Фотографии являются сгенерированными иллюстрациями учебного проекта. CSS выбирает нужный квадрант без изменений исходного файла.
+
+Финальный запрос генерации:
+
+Extract/recreate the FOUR photographic people from the supplied PROMPTLAB website reference into one clean photographic asset atlas, no website UI and NO TEXT. Exact layout: square image with four equally sized square quadrants, zero gutters. Top-left quadrant: same male teacher, 35, dark hair and short neat beard, plain black tee, arms folded, head and torso on neutral very dark gray background, realistic editorial portrait, matching the reference teacher closely. Top-right quadrant: the same young female student Anna with straight brown hair and white blouse, natural friendly headshot on light gray background. Bottom-left quadrant: the same male student Igor, short dark hair and short beard, dark shirt, realistic headshot on light gray background. Bottom-right quadrant: the same female student Maria with long brown hair, realistic headshot on light gray background. Each subject centered within their own quadrant with enough safe space, entire head visible. High-resolution photorealistic portraits, clean skin texture, natural studio lighting, no illustration. Only four quadrants, aligned at exactly 50% horizontal and vertical. These will be used as CSS image atlas for a real website.
